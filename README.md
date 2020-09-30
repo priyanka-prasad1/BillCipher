@@ -52,7 +52,7 @@ After that, Run Command Prompt and enter these commands:
     python3 billcipher.py
 
 # Notes
-BillCipher uses some idea from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a> and it's use HackerTarget API.
+Bill Cipher uses concept from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a> and it's use HackerTarget API.
 
 All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="color: blue">Breacher</span></a>, <a href="http://bit.ly/2F6ioDW" target="_blank"><span style="color: blue">Infoga</span></a>, <a href="http://bit.ly/2KAJC9m" target="_blank"><span style="color: blue">HatCloud</span></a> and <a href="http://bit.ly/2LCZ18X" target="_blank"><span style="color: blue">Sublist3r</span></a> are tools from other developers, not programmed by <a href="https://github.com/githacktools" target="_blank"><span style="color: blue">GitHackTools</span></a>.
 
@@ -78,4 +78,4 @@ All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="colo
  * Add more features
  * Gather information about the host (2.2) DONE!
  * Website Copier (use httrack and only support for Linux) (2.2) DONE!
- * And more...
+ * And more......

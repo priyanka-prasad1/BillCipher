@@ -79,3 +79,5 @@ All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="colo
  * Gather information about the host (2.2) DONE!
  * Website Copier (use httrack and only support for Linux) (2.2) DONE!
  * And more......
+ 
+# Keep learning and hacking !!!
